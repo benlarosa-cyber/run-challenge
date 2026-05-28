@@ -29,9 +29,9 @@ A shared run tracking app for Ben & Jake.
 Open `src/App.jsx` and fill in the three values at the top of the file:
 
 ```js
-const JSONBIN_BIN_ID    = "your-bin-id-here";
-const JSONBIN_API_KEY   = "your-jsonbin-master-key-here";
-const ANTHROPIC_API_KEY = "your-anthropic-api-key-here";
+const JSONBIN_BIN_ID    = "6a1788c4ddf5aa59f76df93d";
+const JSONBIN_API_KEY   = "$2a$10$l/SKlHj6xI9eBXVsjV.uL.Nbg1xBSPbzKj0wiILRg0kvaTjzx9FBW";
+const ANTHROPIC_API_KEY = "PASTE_YOUR_ANTHROPIC_API_KEY_HERE";
 ```
 
 ### Step 4 — Deploy to Vercel (free)
